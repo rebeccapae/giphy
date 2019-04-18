@@ -1,0 +1,25 @@
+body {
+    margin: 15px;
+}
+
+.jumbotron {
+    color: rgb(46, 171, 243);
+    border: 2px solid;
+    border-color: rgb(37, 36, 36);
+}
+
+#submit {
+    border: 2.5px dotted;
+    border-color: rgb(238, 197, 204);
+    margin-left: 10px;
+}
+
+img {
+    border: 2px solid;
+    border-color: rgb(240, 158, 215);
+    margin: 15px;
+}
+
+p {
+    margin: 15px;
+}
